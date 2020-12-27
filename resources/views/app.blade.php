@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=<h1> welcome to larab, initial-scale=1.0">
+    
     <title>@yield("title")</title>
 </head>
 <body>
